@@ -13,10 +13,15 @@ tu jest coś ciekawego napisanego o *mnie*
 
 Coś tam umiem programować
 
+
 ## Cele na studiach
 
 1. coś sie więcej nauczyć
 2. mieć papier bo nie chcą mnie zatrudnić
+
+- jeden
+- dwa
+- trzy
 
 
 Korzystałam z: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
