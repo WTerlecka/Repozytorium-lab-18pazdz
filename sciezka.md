@@ -7,6 +7,8 @@ __coś coś coś__
 
 tu jest coś ciekawego napisanego o *mnie*
 
+*abcdefghijklmnoprstuwxyz*
+
 ## Umiejętności
 
 Coś tam umiem programować
